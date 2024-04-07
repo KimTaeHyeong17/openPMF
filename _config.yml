@@ -1,8 +1,6 @@
-title: Cookie
+title: OpenPMF
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  사업 아이디어를 시장에서 빠르게 검증하세요! 1-2주 안에 빠른 시장 적합성 분석, 잠재 고객 발굴, 나아가 CRM 관리까지! OpenPMF 서비스로 사업과 시장, 고객을 매칭하세요!
 baseurl: "/openPMF"
 url: https://kimtaehyeong17.github.io/openPMF/ # change this URL, this is needed for generating right sitemap
 
